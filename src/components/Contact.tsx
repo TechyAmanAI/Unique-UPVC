@@ -35,7 +35,7 @@ export default function Contact() {
               <div>
                 <h4 className="font-headline font-bold text-xl mb-1">Direct Line</h4>
                 <p className="text-primary/70 font-light text-lg">
-                  +91 7872524067<br />
+                  +91 8447824879<br />
                   Mon-Fri: 9am - 6pm
                 </p>
               </div>
